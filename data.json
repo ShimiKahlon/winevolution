@@ -1,0 +1,810 @@
+
+{
+    "timeline":
+    {
+        "headline":"Windowing system Evolution",
+        "type":"default",
+		"startDate":"1980",
+		"text":"<i><span class='c1'>Designer</span> & <span class='c2'>Developer</span></i>",
+		"asset":
+        {
+            "media":"",
+            "credit":"<a href='http://dribbble.com/shots/221641-iOS-Icon'>iOS Icon by Asher</a>",
+            "caption":""
+        },
+        "date": [
+            {
+                "startDate":"1981",
+                "headline":"Xerox Star",
+                "text":"B&W colors, black stroke, first &quat flat design &quat window. Header - black dot pattern. Buttons are white with black stroke. Content BG is white.",
+                "asset":
+                {
+                    "media":"assets/img/WindowsEvolution/1981-Xerox-Star.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1981",
+                "headline":"ALTO STAR",
+                "text":"the menu bar had no standard for it's look or functionality.",
+                "asset":
+                {
+                    "media":"assets/img/menus/1.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1983,1",
+                "headline":"APPLE LISA - menu bar",
+                "text":"the first to system to introduce Pull down menus and menu bars. The menu bar is a horizontal &quotbar&quot anchored to the top of the screen, adapting it's functions according to the active window.",
+                "asset":
+                {
+                    "media":"assets/img/menus/2.jpg",
+                    "credit":"<a href='http://dribbble.com/shots/401334-Sidebar'>by Chris Brauckmuller</a>",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1983",
+                "headline":"Apple Lisa",
+                "text":"B&W colors, thin black stroke and very small shadow. Header - white, window title with gradient-like BG effect . Buttons are white with black stroke(some are with black shadow). Content BG is white. Bottom navigation bar with mesh pattern.",
+                "asset":
+                {
+                    "media":"assets/img/WindowsEvolution/1983-Apple-Lisa.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1984",
+                "headline":"Macintosh Mac OS 1.0",
+                "text":"Same as Lisa exept one thing, Header - 3 grey lines as BG, window title is black text over white color.",
+                "asset":
+                {
+                    "media":"assets/img/WindowsEvolution/1984-MAC-OS1.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1984",
+                "headline":"MAC OS - status bar",
+                "text":"menu bar the same as lisa, and a new line of status bar is added beneath the application name.",
+                "asset":
+                {
+                    "media":"assets/img/menus/3.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1985",
+                "headline":"WINDOWS 1.0",
+                "text":"windows followed a different approach than apple - each application's menu bar was attetched to said app, beneath the app's name, differentioaded by a color scheme. the name was written in negative BW on blue, and the menu positive black on yellow.",
+                "asset":
+                {
+                    "media":"assets/img/menus/4.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1985",
+                "headline":"Amiga Workbench 1.0",
+                "text":"Blue&White colors, buttons are also with black color, Header - text in blue color over white BG with some blue pixels pattern or 3 blue lines. Left bar in black&orange colors to indicate free space on floppy disk.",
+                "asset":
+                {
+                    "media":"assets/img/WindowsEvolution/1985-Amiga-Workbench-1.0.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1985",
+                "headline":"application menu philisophy",
+                "text":"early windows 1.0 and apple MAC OS Apple's icon philosophy Vs. Windows text based menu.",
+                "asset":
+                {
+                    "media":"assets/img/menus/5.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1985",
+                "headline":"Windows 1.0x",
+                "text":"Colored GUI!  purple mesh-patterned on the title bar for windows that are in the back and full color blue for the front window. Black&yellow toolbar, red&white scrollbars and white content BG. Buttons are still B&W though.",
+                "asset":
+                {
+                    "media":"assets/img/WindowsEvolution/1985-Windows-1.0.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1986",
+                "headline":"IRIX 3",
+                "text":"B&W colored windows but very rich with grey tones. White highligh lines and dark shadowing lines that creats a more 3D effect look. 3D buttons with icons and a blueish content BG. The window is surrounded with a frame.",
+                "asset":
+                {
+                    "media":"assets/img/WindowsEvolution/1986-irix-3.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1987",
+                "headline":"Windows 2.0x",
+                "text":"No major change in the look exept that windows in the back are mostly white coloured with cyan toolbar and look's more &quot disabled &quot.",
+                "asset":
+                {
+                    "media":"assets/img/WindowsEvolution/1987-windows-2.0.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1987",
+                "headline":"Windows 2.0",
+                "text":"Windows, by contrast, demanded each window maintain its own interface. (maybe because up until OS 7 by apple, (1991) the Macintosh could only run one application at a time) Today, the Microsoft approach is the standard used by non Apple GUIs such as Linux etc.",
+                "asset":
+                {
+                    "media":"assets/img/menus/6.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1988",
+                "headline":"OS/2",
+                "text":"Very flat, mostly B&W colors exept that the front window had blue colored titlebar.",
+                "asset":
+                {
+                    "media":"assets/img/WindowsEvolution/1988-os2-.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1988",
+                "headline":"NeXT",
+                "text":"1988 NeXT GUI with 3D looking Windows and Icons. The menu now have icons and supporting text below.",
+                "asset":
+                {
+                    "media":"assets/img/menus/7.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1989",
+                "headline":"NeXTSTEP",
+                "text":"Windows were grey looking with 3D effects in overall look and in buttons. Frontal window had a black titlebar color while windows in the back had grey coloured titlebar. Content BG was grey with colourful 3D icons.",
+                "asset":
+                {
+                    "media":"assets/img/WindowsEvolution/1989-nextstep.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1990",
+                "headline":"Windown 3.0",
+                "text":"Windows start to look significantly better and smoother using Super VGA 800x600 resolutions. White looking windows with grey buttons and a 3D looking GUI using different shades of grey. Frontal windows got their famous blue color toolbar while the back ones remained  white.",
+                "asset":
+                {
+                    "media":"assets/img/WindowsEvolution/1990-windows-3.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1990",
+                "headline":"Windown 3.0",
+                "text":"Approach-wise, Windows had'nt changed how menu bars work, just the color scheme of the OS. the name of the app and the menu now appear very similar. when the windows srinks, the line breack to two.",
+                "asset":
+                {
+                    "media":"assets/img/menus/8.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1991",
+                "headline":"Mac OS 7",
+                "text":"First Mac OS GUI to support colors. Subtle shades of grey, blue and yellow were added to icons but the windows remain grey looking coloured",
+                "asset":
+                {
+                    "media":"assets/img/WindowsEvolution/1991-Mac-OS-7.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1992",
+                "headline":"Windows 3.1",
+                "text":"No significant change in the windows look from the Windows 2 version. More refined buttons and more moderated 3D look. Besides that now the windows are surrounded with a frame.",
+                "asset":
+                {
+                    "media":"assets/img/WindowsEvolution/1992-Windows-3.1.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1993,8",
+                "headline":"Explorer",
+                "text":"beneath the text menu bar, the icons, up till now just icons - were given a textual explanation for more clarity. This feature stayes up and untill march 1999 (V.5) (first done by NeXT)",
+                "asset":
+                {
+                    "media":"assets/img/menus/9.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1995",
+                "headline":"Windows 95",
+                "text":"A much better look for the windows. In some windows, a coloured icon was added to the title bar, also the famous 3 minimize, resize and close buttons were moved to the side of the title bar. The toolbar became less externalized and more functional. A new status bar was added to the bottom of every window. The content area became the most importent part of the window.",
+                "asset":
+                {
+                    "media":"assets/img/WindowsEvolution/1995-Windows-95.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1997",
+                "headline":"Mac OS Sysyem 8",
+                "text":"The platinum grey theme used here became a trademark for future versions of the GUI.More &quot minimal &quot look with no toolbar on the windows since it was moved to the top of the screen in early versions.",
+                "asset":
+                {
+                    "media":"assets/img/WindowsEvolution/1997-Mac-OS-Sysyem-8.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1998",
+                "headline":"Windows 98",
+                "text":"The window look became smoother and more 3D, the overall look was very similar to Windows 95 but when using more than 265 it looked much better. An address bar similar to the one that was used in the Explorer was added to every window. The title bar became more appealing with the adding of the gradient colors and the option to edit and customize them. Windows in the back usually had a Greyish kind of gradient to the title bar.",
+                "asset":
+                {
+                    "media":"assets/img/WindowsEvolution/1998-Windows-98.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1999",
+                "headline":"WIMP apple style OS X",
+                "text":"Unlike the earlier Macintosh operating system, OS X is a Unix-based operating system, built on technology developed at NeXT. Apple passed up a chance to abandon its unorthodox common top menu bar.",
+                "asset":
+                {
+                    "media":"assets/img/menus/10.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2001",
+                "headline":"Windows XP",
+                "text":"Now redesigned and using the &quot Luna &quot visual theme, the windows looks much smooter and attractive. Very colorful icons in the toolbar title bar, buttons changing colors when hover and clicked, blue 3D effect on the title bar that surround the whole window with a blue frame. Windows are now have rounded top corners instead of the square ones.",
+                "asset":
+                {
+                    "media":"assets/img/WindowsEvolution/2001-Windows-XP.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2001",
+                "headline":"Windows XP + Explorer V6",
+                "text":"A mixture of icons and &quot icon training wheels text &quot - some of them have text and others don't, for readability and clarity?",
+                "asset":
+                {
+                    "media":"assets/img/menus/11.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2001",
+                "headline":"Mac OS X",
+                "text":"New Aqua interface, smaller title bar, glass-looking buttons, Apple replaced the icons of the functional buttons with only coloured buttons on top of the white-grey gradient title bar which is now became semi-transparent. Rounded top corners instead of the square ones. Blue glass effect scroll bar. Very fine shadow in the back of the windows.",
+                "asset":
+                {
+                    "media":"assets/img/WindowsEvolution/2001-Mac-OSX.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2005",
+                "headline":"Netscape browser",
+                "text":"the text menu bar is infused with the program name and icon.",
+                "asset":
+                {
+                    "media":"assets/img/menus/12.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2006,12",
+                "headline":"Window Vista",
+                "text":"Beyond the horrible fonts and oversized Fisher Price controls and ghastly waste of screen space, notice the lack of conventional menu bar in this screen shot of Windows Photo Gallery. Removing the menu bar isn't like the fonts and colors etc., it doesn't make men of taste instantly recoil, it just destroys the technical functionality - like the Apple GUI that looks good but doesn't do what you need. A line of navigation tree and a permanent search bar are added underneath the window's controls.",
+                "asset":
+                {
+                    "media":"assets/img/menus/13.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2007",
+                "headline":"Windows Vista",
+                "text":"More 3D looking interface, semi-transparent glass-looking GUI with smaller and more rounded buttons. Smaller search bar and bigger path bar. Quite visible shadow on the back of the windows.",
+                "asset":
+                {
+                    "media":"assets/img/WindowsEvolution/2007-Windows-Vista.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2007,10",
+                "headline":"Explorer",
+                "text":"gettting rid of the texstual menu bar. Only the logo of the app remains. Interestingly enough on same year Opara actually ADDED for the first time a textual menu bar.",
+                "asset":
+                {
+                    "media":"assets/img/menus/14.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2007",
+                "headline":"Mac OS X Leopard",
+                "text":"No more &quotAqua&quot theme, instead the title bar is now simple gradiant grey with no transparency. Status bar added to the bottom of the window. Total look is more &quot clean &quot and simple. Toolbar have less text and more icons instead.",
+                "asset":
+                {
+                    "media":"assets/img/WindowsEvolution/2007-Mac-OS-X-Leopard.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2008",
+                "headline":"GNOME 2.24",
+                "text":"Looks like a combination of Windows Vista and Mac OSX Leopard interfaces. Gradient blue title bar, grey toolbar, small colorful icon in a navigation bar and grey status bar.",
+                "asset":
+                {
+                    "media":"assets/img/WindowsEvolution/2008-GNOME-2.24.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2008,12",
+                "headline":"Chrome menu - or not",
+                "text":"Right from their first version, Chrome had no textual menu bar. The logo is near the commend controls on the upper right side. A dropdown integrated menu is manifested by a wrench icon and a page icon near the address/search line. On Mac however, the OS forced a menu bar at the top of the screen.",
+                "asset":
+                {
+                    "media":"assets/img/menus/15.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2009",
+                "headline":"Windows 7",
+                "text":"Better designed GUI using the Aero visual style from Vista. Semi-transparent windows. Also some windows have a semi-transparentcontent area BG",
+                "asset":
+                {
+                    "media":"assets/img/WindowsEvolution/2009-Windows-7.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2010,12",
+                "headline":"Opara",
+                "text":"Reintroducing a text - the word: &quotmenu&quot to the bar, to indicate the hidden menu.",
+                "asset":
+                {
+                    "media":"assets/img/menus/16.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2010,3",
+                "headline":"Opara",
+                "text":"The text menu bar totally removes and replaces with a single icon. The name of the program in also invisible.",
+                "asset":
+                {
+                    "media":"assets/img/menus/17.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2011,3",
+                "headline":"Firefox un-menu",
+                "text":"The textual menu is completly dropped. a drop down settings menu acceessed by an icon right of the address line, in a hidden. or secondary place.",
+                "asset":
+                {
+                    "media":"assets/img/menus/18.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2011,4",
+                "headline":"Ubuntu 11.04 and the &quotUnity&quot desktop",
+                "text":"The new Top Bar displays the menu of the current foreground application like the MacOS menu bar. BUT some of the applications have tectual munues SPLIT between the window itself and the menu bar at the top of the screen. Sometimes only the name sticks to the top, and the other dropdown menu are atteched to the windows.",
+                "asset":
+                {
+                    "media":"assets/img/menus/20.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2011",
+                "headline":"Opara menu change",
+                "text":"At first (june 2011) the word Menu was used near the icon of the browser, and next (december 2011) at the same location with the same function, it was replaced by the program name.",
+                "asset":
+                {
+                    "media":"assets/img/menus/19.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2011",
+                "headline":"Mac OS X Lion",
+                "text":"All corners of the window are now rounded. No separation between the title bar and the toolbar using moderate grey gradient as BG. Light 3D effects for buttons and search bar with much smaller icons and buttons. Side navigation for favorite folders. Big shadow on back of the window.",
+                "asset":
+                {
+                    "media":"assets/img/WindowsEvolution/2011-Mac-OS-X-Lion.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2012,10",
+                "headline":"Windows 8",
+                "text":"Why did we even bother inventing the GUI in the first place?! Or visible buttons to click on? How about visible menus to choose options from? With Windows 8 we all get to go back to full screen DOS programs and memorizing keyboard commands!!!",
+                "asset":
+                {
+                    "media":"assets/img/menus/21.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2012",
+                "headline":"Windows 8",
+                "text":"Took the menu bar elemnts from the Office applications. The Explorer &quotcommand bar&quot (menu bar) is changed around from Windows 7. Notice how the ribbon interface is evolving back in to old fashion menus, just with more clutter.",
+                "asset":
+                {
+                    "media":"assets/img/menus/22.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2002,8",
+                "headline":"Netscape v.7",
+                "text":"In 2002 Netscape were the $rst ones to add tabs to their browser. It aloud users to have a few pages open, on one browser instead of having a dozen browsers open because of this they were able to have more control over them.",
+                "asset":
+                {
+                    "media":"assets/img/tabs/7.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2003,1",
+                "headline":"OPERA v.7",
+                "text":"In January 2003 Opera came out with thier version, of the tab, on the browser. It was the same concept as the Netscape version. It just wasnt clear how to open a new tab.",
+                "asset":
+                {
+                    "media":"assets/img/tabs/8.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2005,4",
+                "headline":"OPERA v.8",
+                "text":"Two years later they added the &quotnew page&quot button and the &quotx&quot button which aloud users to understand how to open and close each tab separately.",
+                "asset":
+                {
+                    "media":"assets/img/tabs/9.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2005,5",
+                "headline":"Netscape v.8",
+                "text":"A month later Netscape came out with the x button but with out the red bounding box around the x. Also instread of writing &quotopen page&quot the used a + sign to represent the opening of a new tab.",
+                "asset":
+                {
+                    "media":"assets/img/tabs/10.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2006,10",
+                "headline":"Internet Explorer v.7",
+                "text":"By 2006 Explorer made it even simpler there were not extra symbols, only the new page creaping out behind the open page. It was clear to users to click on it to open a new page.",
+                "asset":
+                {
+                    "media":"assets/img/tabs/11.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2006,10",
+                "headline":"Firefox v.2",
+                "text":"At the same time Fire fox were way behind of the new way of presenting the tab and were still using the x with the red bounding box.",
+                "asset":
+                {
+                    "media":"assets/img/tabs/12.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2008,6",
+                "headline":"Safari v.4",
+                "text":"Safari continued the smae streak as Netscape using the + and the x symbol to open and close a page.",
+                "asset":
+                {
+                    "media":"assets/img/tabs/13.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2008,12",
+                "headline":"Chrome v.1",
+                "text":"When Chrome came out with the tabs they used the + and X bottens and also wrote inside the new tab &qoutnew tab&quot where you hadn't started searching the web and in the tabs that you had started searching they wrote the title of the web page you are looking at, so you were able to be more organized with your tabs and know which tab is which.",
+                "asset":
+                {
+                    "media":"assets/img/tabs/14.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2009,3",
+                "headline":"Internet Explorer v.8",
+                "text":"In 2009 Eplorer made the tab bar more mellow. it blended more with the tool bar.",
+                "asset":
+                {
+                    "media":"assets/img/tabs/15.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2009,5",
+                "headline":"Chrome v.2",
+                "text":"In 2009 Chrome moved the new tab page onto the le% of the open tabs from the right",
+                "asset":
+                {
+                    "media":"assets/img/tabs/16.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2009,6",
+                "headline":"Firefox v.3.5",
+                "text":"In 2009 Firefox changed the colouringor the tabs and the symbols. !ey added blue to the open tab to make it more visible that that one is open. the symbols became more dominant the x was $lled with red and the + was $lled with green. For start and stop.",
+                "asset":
+                {
+                    "media":"assets/img/tabs/17.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2009,9",
+                "headline":"OPERA v.10",
+                "text":"in sep 2009 Opera completely changes how the tab used to look like. it now had a tool bar of its own. the open bar was a light brown and the symbol of the open page was no longer written. !ey started using the + botten like everyone else and had a condesned tab bar under it in a darker gray.",
+                "asset":
+                {
+                    "media":"assets/img/tabs/18.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2009,11",
+                "headline":"OPERA v.9.6",
+                "text":"In November of 2009 the tabs were changed again. instead of the condenesed tool bar they changed it to an arrow with a circle inside, to show the direction of where the new tab would go.",
+                "asset":
+                {
+                    "media":"assets/img/tabs/19.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2010,1",
+                "headline":"Firefox v.3.6",
+                "text":"In 2010 $refox completely shredded all the extra info that was not needed on the tool bar.",
+                "asset":
+                {
+                    "media":"assets/img/tabs/20.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2010,3",
+                "headline":"OPERA v.10.5",
+                "text":"In 2010 Opera went back to the original design with the + signs. !ey also added blue to the design instead of the gray that they had used since the beginning",
+                "asset":
+                {
+                    "media":"assets/img/tabs/21.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2010,6",
+                "headline":"Safari v.5",
+                "text":"Safari in 2010 moved their tab bar from the top of the screan",
+                "asset":
+                {
+                    "media":"assets/img/tabs/22.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2010,12",
+                "headline":"OPERA v.11",
+                "text":"Half a year later from when they had come out they changed it once again. !e whole tool bar was made smaller by half the size. it gave the brower a more delicate look. !ey also added thier logo onto the corner of the tab.",
+                "asset":
+                {
+                    "media":"assets/img/tabs/23.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2011,3",
+                "headline":"Internet Explorer v.9",
+                "text":"A year later explorer made the tool bar a lot smaller. All the icons became very minimalistic. !e search bar and tabs were all put onto one tool bar.",
+                "asset":
+                {
+                    "media":"assets/img/tabs/24.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2011,3",
+                "headline":"Firefox v.4",
+                "text":"in the same month as explorer $refox came out with a similar design for the tool bar. is also became very minimalistic, but instead of only having one bar they stayed with two.",
+                "asset":
+                {
+                    "media":"assets/img/tabs/25.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2011,4",
+                "headline":"OPERA v.11.1",
+                "text":"Operas way of the tool bar completely went the other way, from the rest of the browesers. Adding a lot of extra icons and buttons to press. Although the tabs stayed very similar, only change was the enlargment of them and slight colouring change.",
+                "asset":
+                {
+                    "media":"assets/img/tabs/26.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2011,6",
+                "headline":"OPERA v.11.5",
+                "text":"Only a few months later Opera realized they made a mistake by adding a huge amount of icons. once again they were forced to change to tool bar and minimize everything. !e tabs stayed quite similar, except for the logo ont the tab tool that was removed.",
+                "asset":
+                {
+                    "media":"assets/img/tabs/27.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2011,9",
+                "headline":"Chrome v.14",
+                "text":"In september Chrome made the tabs bigger with a similar colour fade, of a picture, as the tabs that were on top.",
+                "asset":
+                {
+                    "media":"assets/img/tabs/28.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2011,9",
+                "headline":"Firefox v.7",
+                "text":"While Opera took off their logo on the tabs Fire ox added theirs. the made the Tabs just as big as the tool bar.",
+                "asset":
+                {
+                    "media":"assets/img/tabs/29.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2012,2",
+                "headline":"Chrome v.17",
+                "text":"The only change on chrome in 2013 was taking off the + sign on the new tabs",
+                "asset":
+                {
+                    "media":"assets/img/tabs/30.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2012,4",
+                "headline":"Firefox v.12",
+                "text":"",
+                "asset":
+                {
+                    "media":"assets/img/tabs/31.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2012,6",
+                "headline":"Firefox v.13",
+                "text":"Two months later the took off their logo from the tabs.",
+                "asset":
+                {
+                    "media":"assets/img/tabs/32.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2012,6",
+                "headline":"OPERA v.12",
+                "text":"Oper changed the + sign to white and had no bounding box around it.",
+                "asset":
+                {
+                    "media":"assets/img/tabs/33.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2012",
+                "headline":"Windows 8",
+                "text":"Launching certain kinds of files will switch you back to the Metro interface. <b>In Windows 7</b>, we already had three distinctly different application user interfaces styles.<br>The classic application with a drop down menu, Ribbonized applications, Webby applications.<br>With Windows 8's Metro, that brings the count up to 4.",
+                "asset":
+                {
+                    "media":"assets/img/menus/23.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            }
+        ]
+    }
+}
