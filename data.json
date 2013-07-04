@@ -4,8 +4,8 @@
     {
         "headline":"Windowing system Evolution",
         "type":"default",
-		"startDate":"1980",
-		"text":"<i><span class='c1'>Designer</span> & <span class='c2'>Developer</span></i>",
+		"startDate":"1978",
+		"text":"<i><span class='c1'>Designers</span> & <span class='c2'>Developers</span></i>",
 		"asset":
         {
             "media":"",
@@ -801,6 +801,303 @@
                 "asset":
                 {
                     "media":"assets/img/menus/23.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1979",
+                "headline":"Xerox Alto",
+                "text":"There was no icons or pictures to control the window.",
+                "asset":
+                {
+                    "media":"assets/img/controls/Xerox Alto - 1979.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1979",
+                "headline":"Lisa (1)",
+                "text":"There was no window manager yet.",
+                "asset":
+                {
+                    "media":"assets/img/controls/lisa (1) -1979.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1979",
+                "headline":"Lisa (2)",
+                "text":"The first scroll bar, on the left instead of the right, before the arrow scroll buttons were added. It also has a folder-tab style title bar, which would persist for a while before being dropped.",
+                "asset":
+                {
+                    "media":"assets/img/controls/lisa(2)- 1979.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1981",
+                "headline":"Lisa (3)",
+                "text":"The closed window tabs standard menu on the extreme left called “the tray,” which could show and hide opened windows.",
+                "asset":
+                {
+                    "media":"assets/img/controls/lisa(3)-1981.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1984",
+                "headline":"MAC OS- system 1.0",
+                "text":"It had several features of modern operating system, being windows based with icon. The window could be moved around with the mouse.",
+                "asset":
+                {
+                    "media":"assets/img/controls/MAC OS- system 1.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1986",
+                "headline":"MAC OS- system 3.0",
+                "text":"Zoom box were added to the right end of the title bar, clicking on the box would make the window resize to just fit the contents of the folder, clicking again would make the window go back to its old size.",
+                "asset":
+                {
+                    "media":"assets/img/controls/MAC OS- system 3.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1985",
+                "headline":"Microsoft windows version 1.x",
+                "text":"The control in the upper right corner  is a &quotresize&quot control. Dragging it around will move the top edge of the window and double clicking will &quotzoom&quot the window to full screen. The control in the upper left of the window is the system box.",
+                "asset":
+                {
+                    "media":"assets/img/controls/Microsoft windows version 1.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1987",
+                "headline":"Microsoft windows version 2.x",
+                "text":"The window control improved, the window may be freely resized and move on the screen.<br><br>The window controls now consist of a system box in the upper left, and a minimize and maximize or restore button in the upper right.",
+                "asset":
+                {
+                    "media":"assets/img/controls/Microsoft windows version 2.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1990",
+                "headline":"Microsoft windows version 3",
+                "text":"The window management is not much different then version 2.x, however they took some steps to make it look fancier.<br><br>The command buttons ant the window controls have a 3d look.",
+                "asset":
+                {
+                    "media":"assets/img/controls/Microsoft windows version 3 -1990.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1995",
+                "headline":"Microsoft window 95",
+                "text":"This is the first version of windows to feature the start menu and the taskbar, and minimize maximize and close buttons on each window change to the well- known underscore, square and X symbol.",
+                "asset":
+                {
+                    "media":"assets/img/controls/Microsoft window 95 - 1995.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2001",
+                "headline":"Mac OS X -2001",
+                "text":"Apple added three buttons to the left (green, yellow and red).<br>Each window has close, minimize an maximize button on it.<br>The &quotX&quot, &quot-&quot and &quot+&quot symbols only appear when the mouse moves over these buttons.<br>Apple added an icon on the lower right corner of the window (3 sroke) To adjust the size of a window Drag the lower-right corner of the window, as with any window in the Finder or Position the mouse pointer over the window edge. When the mouse pointer turns into the Resize pointer, drag in any direction.",
+                "asset":
+                {
+                    "media":"assets/img/controls/Mac OS X -2001 - 2001.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2001",
+                "headline":"Windows XP",
+                "text":"Windows XP's default install also came with all sorts of gimmicky new features such as 'Web Folders' which all corporate users and power users instantly disabled.",
+                "asset":
+                {
+                    "media":"assets/img/controls/Windows XP - 2001.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2007",
+                "headline":"Windows vista",
+                "text":"The Windows control panel still defaults to a webby view like similar to Windows XP, but thankfully you can still select &quotclassic&quot mode, as shown above. (Classic mode is actually more like MacOS, but that was ripped off way back in Windows 3.0).",
+                "asset":
+                {
+                    "media":"assets/img/controls/Windows vista - 2007.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2009",
+                "headline":"Windows 7",
+                "text":"A minor interesting addition to the general window management is that dragging a window to the edge of the screen can resize the window. Dragging to the top or bottom will maximize the window while dragging to the left or right will &quottile&quot the window to half of the screen.",
+                "asset":
+                {
+                    "media":"assets/img/controls/Windows 7 - 2009.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2012",
+                "headline":"Windows 8",
+                "text":"While not much is new in this early build of Windows 8, it does reveal larger window controls. The close, maximize and minimize buttons are larger than what they were in Windows 7. Other than that, there is nothing else noticeable in this build, other than the fact that it says “Pre-release Windows Operating System” in the bottom right hand corner.",
+                "asset":
+                {
+                    "media":"assets/img/controls/Windows 8 -2012.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1986",
+                "headline":"Windows 1.03",
+                "text":"Generally in Microsoft Windows the active window will always come to front. In order to activate a window it must be clicked. The color of the activate window bar is changing to a brighter solid color.The active window will overlap the inactive windows.",
+                "asset":
+                {
+                    "media":"assets/img/activating/2.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1987",
+                "headline":"Windows 2.03",
+                "text":"The separation between an active window and inactive window is more clear and defined by a color change. The user is still able to overlap windows.",
+                "asset":
+                {
+                    "media":"assets/img/activating/3.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1992",
+                "headline":"Windows 3.1",
+                "text":"The separation between an active window and inactive window is more clear and defined by a color change. The user is still able to overlap windows.",
+                "asset":
+                {
+                    "media":"assets/img/activating/4.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1995",
+                "headline":"Windows 95",
+                "text":"Task bar fetcher was added. The task bar shows all the open windows and the active one will be shown pushed in.",
+                "asset":
+                {
+                    "media":"assets/img/activating/5.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2006",
+                "headline":"Windows Vista",
+                "text":"For a while the display of active window stayed the same, but in the new windows vista system the user was introduced to &quotWindows Aero&quot –that supported translucency effects. The new system offered the user was a glance on other active windows by a new transparency display.",
+                "asset":
+                {
+                    "media":"assets/img/activating/6.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1984",
+                "headline":"Lisa OS",
+                "text":"In general the active window in mac is always the front most window, and inactive windows always appear behind the active window. Only one window can be active at a time. To make a window active, click it anywhere — in the middle, on the title bar, or on a scroll bar. It doesn’t matter where, just click anywhere to activate it.",
+                "asset":
+                {
+                    "media":"assets/img/activating/7.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1989",
+                "headline":"OS 2",
+                "text":"Like in windows 2 a change in color defines the active window.",
+                "asset":
+                {
+                    "media":"assets/img/activating/8.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1997",
+                "headline":"OS 8",
+                "text":"Control strip fetcher was added. The control strip shows all the open windows and the active one will be shown pushed in.",
+                "asset":
+                {
+                    "media":"assets/img/activating/9.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1990",
+                "headline":"Windows 3",
+                "text":"ALT+TAB on windows. Started in windows 3 the alt tab is a common name for a keyboard shortcut that switches between active windows quickly.",
+                "asset":
+                {
+                    "media":"assets/img/activating/10.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2001",
+                "headline":"Mac OSX",
+                "text":"ALT+ TAB on mac. Instead of alt using command. On mac the switch is between apps and not between windows.",
+                "asset":
+                {
+                    "media":"assets/img/activating/11.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1996",
+                "headline":"Unix KDE",
+                "text":"ALT+ESC. Came before the alt tab. The user was able to switch windows but not to choose which window to open.",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1987",
+                "headline":"TWM",
+                "text":"(Tab- Window- Manager) became the standard window manager of the x window system x window system- an open sourced Linux system in 1989. TWM is a point to focus system instead of the click to focus systems. Until today disables users are able to use this option.",
+                "asset":
+                {
+                    "media":"assets/img/activating/13.jpg",
                     "credit":"",
                     "caption":""
                 }
